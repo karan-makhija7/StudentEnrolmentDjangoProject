@@ -1,0 +1,82 @@
+#email {
+    width: 40%;
+  }
+  
+  #heading {
+    height: 75px;
+    border-radius: 4px;
+    background-color: rgb(12, 35, 96);
+    width: 45%;
+    margin: 10px auto;
+    text-align: center;
+    padding: auto;
+  }
+  
+  h1 {
+    border: 0.2px solid #000;
+    border-radius: 4px;
+    width: 350px;
+    margin: auto;
+    color: white;
+    background-color: rgb(12, 35, 96);
+  }
+  
+  #enroldatetime {
+    width: 60%;
+  }
+  
+  #app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
+    color: #2c3e50;
+    margin-top: 60px;
+  }
+  
+  #name {
+    width: 20%;
+    color: #000;
+  }
+  
+  #course {
+    text-align: center;
+    width: 40%;
+    margin: 2px auto;
+  }
+  
+  #title {
+    width: 300px;
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+  }
+  
+  #row1 {
+    background-color: rgb(12, 35, 96);
+    color: white;
+  }
+  
+  th {
+    border-radius: 6px;
+  }
+  
+  #app {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  #sub {
+    position: relative;
+    width: 20%;
+    color: white;
+    background-color: rgb(12, 35, 96);
+  }
+  
