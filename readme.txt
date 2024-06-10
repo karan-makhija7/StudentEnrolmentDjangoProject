@@ -1,5 +1,5 @@
 Project Overview
-The project consists of students app that contains a page with aform to add students enrolled in a university as well as edit/update their detail.
+The project consists of students app that contains a page with a form to add students enrolled in a university as well as edit/update their detail.
 It also displays a list of students added and is dynamically updated.
 
 Project Structure
