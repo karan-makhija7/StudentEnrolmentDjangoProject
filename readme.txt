@@ -7,7 +7,7 @@ The project is split into 2 main directories:
 1.backend
 2.frontend
 
-The backend contains the models that define the structure of the database along with project views and urls.
+The backend contains the "students" app file that has the models that define the structure of the database along with app views and urls. it also has the urls for routing for the backend (Django administration).
 The frontend contains the main page that renders the form structure, styling and javascript (to make the form interactive).
 
 
