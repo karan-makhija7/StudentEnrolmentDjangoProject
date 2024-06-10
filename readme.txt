@@ -1,5 +1,5 @@
 Project Overview
-The project consists of students app that contains a page with a form to add students enrolled in a university as well as edit/update their detail.
+The project consists of students app that contains a page with a form to add students enrolled in a university as well as edit/update their details.
 It also displays a list of students added and is dynamically updated.
 
 Project Structure
@@ -7,7 +7,9 @@ The project is split into 2 main directories:
 1.backend
 2.frontend
 
-The backend contains the "students" app file that has the models that define the structure of the database along with app views and urls. it also has the urls for routing for the backend (Django administration).
+The backend contains the "students" app file that has the models that define the structure of the database along with app views and urls. it also has the urls for routing the backend (Django administration).
+The requirements.txt file in backend specifies the dependencies required to run the project.
+
 The frontend contains the main page that renders the form structure, styling and javascript (to make the form interactive).
 
 
