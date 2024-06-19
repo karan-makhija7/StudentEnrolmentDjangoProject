@@ -16,7 +16,7 @@ class Student(models.Model):
     course_major = models.CharField(max_length=140)
     course_minor = models.CharField(max_length=140, default="None")
     course_duration = models.IntegerField(
-        default=0,
+        default=1,
         validators=[
             MaxValueValidator(5),
             MinValueValidator(1)
