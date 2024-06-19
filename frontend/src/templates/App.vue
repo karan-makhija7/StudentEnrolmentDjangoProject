@@ -15,6 +15,7 @@
             placeholder="First Name"
             v-model="student.first_name"
             id="name"
+            required
           />
           <input
             type="text"
@@ -22,6 +23,7 @@
             placeholder="Last Name"
             v-model="student.last_name"
             id="name"
+            required
           />
         </div>
         <div class="row justify-content-center">
@@ -31,6 +33,7 @@
             placeholder="Student Email"
             v-model="student.email"
             id="email"
+            required
           />
         </div>
         <p></p>
@@ -183,5 +186,5 @@
   </div>
 </template>
 
-<script src="../static/js/form.js">
+<script lang ="ts" src="../static/typescript/form.ts">
 </script>
